@@ -13,7 +13,7 @@ Ubuntu 14.04
 
 A more recent blog about using this code with Ubuntu 14.04 is available at
 my new blog. Check out the post
-[here](chrisstrelioff.ws/sandbox/2014/08/16/garmin_forerunner_and_ubuntu_14_04.html).
+[here](http://chrisstrelioff.ws/sandbox/2014/08/16/garmin_forerunner_and_ubuntu_14_04.html).
 
 Ubuntu 12.04
 ------------
